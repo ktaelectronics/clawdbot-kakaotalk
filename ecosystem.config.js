@@ -31,12 +31,12 @@ module.exports = {
     },
     {
       name: 'clawdbot-gateway',
-      // clawdbot이 전역 설치된 경우: npx clawdbot gateway 사용
-      // 또는 로컬 경로로 수정: process.env.APPDATA + '/npm/node_modules/clawdbot/dist/entry.js'
-      script: 'npx',
-      args: 'clawdbot gateway --port 18789',
+      // clawdbot 전역 설치 경로 사용
+      script: process.env.APPDATA + '/npm/node_modules/clawdbot/dist/entry.js',
+      args: 'gateway --port 18789',
       cwd: PROJECT_ROOT,
       instances: 1,
+      exec_mode: 'fork',  // cluster 모드 호환 안됨, fork 필수
       autorestart: true,
       watch: false,
       windowsHide: true,
